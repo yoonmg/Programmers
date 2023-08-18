@@ -7,3 +7,5 @@ Making prime numbers and counting them <br> 소수만들기 문제 <br> https://
 VPS Problem <br> 괄호 문자열 검사 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/12909#
 
 Fibonacci Sequence without recursion <br> 반복문으로 피보나치 수열 구하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/12945
+
+Carpet Problem <br> 카펫 구하기 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42842
