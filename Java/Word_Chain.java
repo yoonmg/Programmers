@@ -29,7 +29,7 @@ class Solution {
             }
             else
             {
-                start = words[i].charAt(words[i].length()-1);          //앞글자의 마지막 글자를 저장
+                start = words[i].charAt(words[i].length()-1);          //앞 단어의 마지막 글자를 저장
             }
         }
         return answer;
