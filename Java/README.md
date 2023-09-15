@@ -16,6 +16,8 @@ VPS Application Problem <br> 괄호 문자열 회전하기 <br> https://school.p
 
 Matrix_Multiplication Problem <br> 행렬 곱셈 <br> https://school.programmers.co.kr/learn/courses/30/lessons/12949
 
-LRU Algorithm Problem <br> LRU 알고리즘 문제 풀기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/17680#
+LRU Algorithm Problem <br> LRU 알고리즘 문제  <br> https://school.programmers.co.kr/learn/courses/30/lessons/17680#
 
-Function Development Problem <br> 기능 개발 문제 풀기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42586
+Function Development Problem <br> 기능 개발 문제  <br> https://school.programmers.co.kr/learn/courses/30/lessons/42586
+
+Jump and Teleport Problem with binary conversion <br> 점프와 순간이동 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/12980
