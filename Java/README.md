@@ -21,3 +21,6 @@ LRU Algorithm Problem <br> LRU 알고리즘 문제  <br> https://school.programm
 Function Development Problem <br> 기능 개발 문제  <br> https://school.programmers.co.kr/learn/courses/30/lessons/42586
 
 Jump and Teleport Problem with binary conversion <br> 점프와 순간이동 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/12980
+
+H-Index Problem <br> H-Index 문제 <br> [What is H-Index?](https://en.wikipedia.org/wiki/H-index)  [H-Index란?](https://ko.wikipedia.org/wiki/H_%EC%A7%80%EC%88%98) 
+<br> https://school.programmers.co.kr/learn/courses/30/lessons/42747
