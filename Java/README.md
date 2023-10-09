@@ -28,3 +28,5 @@ H-Index Problem <br> H-Index 문제 <br> [What is H-Index?](https://en.wikipedia
 Clothes Problem <br> 의상 종류의 경우의수 구하기 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42578
 
 Fatigue Problem with DFS <br> DFS를 이용한 던전 피로도 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/87946
+
+Process Problem with Queue <br> 큐를 이용한 프로세스 순서 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42587#
