@@ -30,3 +30,6 @@ Clothes Problem <br> 의상 종류의 경우의수 구하기 문제 <br> https:/
 Fatigue Problem with DFS <br> DFS를 이용한 던전 피로도 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/87946
 
 Process Problem with Queue <br> 큐를 이용한 프로세스 순서 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42587#
+
+Character Coordinate Problem <br> 보드의 크기가 주어졌을 때 현재 캐릭터의 좌표를 구하는 문제 <br>
+https://school.programmers.co.kr/learn/courses/30/lessons/120861
