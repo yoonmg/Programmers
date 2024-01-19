@@ -31,5 +31,6 @@ Fatigue Problem with DFS <br> DFS를 이용한 던전 피로도 문제 <br> http
 
 Process Problem with Queue <br> 큐를 이용한 프로세스 순서 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/42587#
 
-Character Coordinate Problem <br> 보드의 크기가 주어졌을 때 현재 캐릭터의 좌표를 구하는 문제 <br>
-https://school.programmers.co.kr/learn/courses/30/lessons/120861
+Character Coordinate Problem <br> 보드의 크기가 주어졌을 때 움직인 캐릭터의 현재 좌표를 구하는 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120861
+
+Ranking with consideration of ties <br> 중복된 순위를 고려한 순위 매기기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120882#
