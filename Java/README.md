@@ -34,3 +34,5 @@ Process Problem with Queue <br> 큐를 이용한 프로세스 순서 문제 <br>
 Character Coordinate Problem <br> 보드의 크기가 주어졌을 때 움직인 캐릭터의 현재 좌표를 구하는 문제 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120861
 
 Ranking with consideration of ties <br> 중복된 순위를 고려한 순위 매기기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120882#
+
+Making the number of rows and columns equal <br> 행과 열의 갯수를 같게 만들기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181830
