@@ -36,3 +36,5 @@ Character Coordinate Problem <br> 보드의 크기가 주어졌을 때 움직인
 Ranking with consideration of ties <br> 중복된 순위를 고려한 순위 매기기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120882#
 
 Making the number of rows and columns equal <br> 행과 열의 갯수를 같게 만들기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181830
+
+Checking safety zone <br> 안전 지대 확인하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120866
