@@ -38,3 +38,5 @@ Ranking with consideration of ties <br> 중복된 순위를 고려한 순위 매
 Making the number of rows and columns equal <br> 행과 열의 갯수를 같게 만들기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181830
 
 Checking safety zone <br> 안전 지대 확인하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120866
+
+Arrange Integers in spiral <br> 정수를 나선형으로 배치하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181832
