@@ -40,3 +40,5 @@ Making the number of rows and columns equal <br> 행과 열의 갯수를 같게 
 Checking safety zone <br> 안전 지대 확인하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/120866
 
 Arrange Integers in spiral <br> 정수를 나선형으로 배치하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181832
+
+Making new Kakao Id by the rules <br> 주어진 카카오 아이디에서 규칙에 따라 추천 아이디로 변경하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/72410
