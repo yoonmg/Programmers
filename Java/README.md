@@ -42,3 +42,5 @@ Checking safety zone <br> 안전 지대 확인하기 <br> https://school.program
 Arrange Integers in spiral <br> 정수를 나선형으로 배치하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/181832
 
 Making new Kakao Id by the rules <br> 주어진 카카오 아이디에서 규칙에 따라 추천 아이디로 변경하기 <br> https://school.programmers.co.kr/learn/courses/30/lessons/72410
+
+Claw Crane Game <br> 크레인 인형 뽑기 게임 <br> https://school.programmers.co.kr/learn/courses/30/lessons/64061
